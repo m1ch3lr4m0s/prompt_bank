@@ -36,10 +36,3 @@ Para instalar e executar este projeto, siga os passos abaixo:
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Você pode abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Para mais informações, você pode entrar em contato com o autor do projeto.

@@ -1,0 +1,58 @@
+{
+    "accounts": [
+        {
+            "account": 854632,
+            "name": "John Kurtmann",
+            "password": "AKj5tD554Fc",
+            "balance": 1345.22
+        },
+        {
+            "account": 854633,
+            "name": "Alice Smith",
+            "password": "BKl7tD123Fg",
+            "balance": 2450.75
+        },
+        {
+            "account": 854634,
+            "name": "Michael Johnson",
+            "password": "CZm8tD987Hg",
+            "balance": 3200.50
+        },
+        {
+            "account": 854636,
+            "name": "David Brown",
+            "password": "EZo0tD321Lm",
+            "balance": 980.45
+        },
+        {
+            "account": 854637,
+            "name": "Sophia Wilson",
+            "password": "FAp1tD876Mn",
+            "balance": 560.30
+        },
+        {
+            "account": 854638,
+            "name": "James Taylor",
+            "password": "GQq2tD543Op",
+            "balance": 780.99
+        },
+        {
+            "account": 854639,
+            "name": "Olivia Anderson",
+            "password": "HRr3tD210Qr",
+            "balance": 1200.00
+        },
+        {
+            "account": 854640,
+            "name": "William Thomas",
+            "password": "ISs4tD987Rs",
+            "balance": 3000.00
+        },
+        {
+            "account": 854641,
+            "name": "Mia Martinez",
+            "password": "JTt5tD654St",
+            "balance": 450.75
+        }
+    ]
+}
